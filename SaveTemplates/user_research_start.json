@@ -1,0 +1,44 @@
+{
+  "user_research": [
+    {
+      "ptid": "PT_ARM_WP005_001",
+      "lvl": 1,
+      "research_type": "FINISHED",
+      "receive_type": "CHARGE",
+      "is_announced": 1,
+      "is_checked": 0,
+      "before_ptid": "",
+      "before_lvl": 0
+    },
+    {
+      "ptid": "PT_ARM_WP005_001",
+      "lvl": 2,
+      "research_type": "LEVELUP",
+      "receive_type": "UNKNOWN",
+      "is_announced": 0,
+      "is_checked": 0,
+      "before_ptid": "",
+      "before_lvl": 0
+    },
+    {
+      "ptid": "PT_ARM_WP006_001",
+      "lvl": 1,
+      "research_type": "FINISHED",
+      "receive_type": "CHARGE",
+      "is_announced": 1,
+      "is_checked": 0,
+      "before_ptid": "",
+      "before_lvl": 0
+    },
+    {
+      "ptid": "PT_ARM_WP006_001",
+      "lvl": 2,
+      "research_type": "LEVELUP",
+      "receive_type": "UNKNOWN",
+      "is_announced": 0,
+      "is_checked": 0,
+      "before_ptid": "",
+      "before_lvl": 0
+    }
+  ]
+}

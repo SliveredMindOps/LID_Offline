@@ -1,0 +1,17 @@
+exports.start = require('./start.js');
+exports.logins = require('./logins.js');
+exports.getuserinfo = require('./getuserinfo.js');
+exports.tutorial = require('./tutorial.js');
+exports.starthub = require('./starthub.js');
+exports.selectbody = require('./selectbody.js');
+exports.startfloor = require('./startfloor.js');
+exports.arrival = require('./arrival.js');
+exports.die = require('./die.js');
+exports.presents = require('./presents.js');
+exports.operatepresent = require('./operatepresent.js');
+exports.getpartresearch = require('./getpartresearch.js');
+exports.update_research = require('./update_research.js');
+exports.getmushroomshop = require('./getmushroomshop.js');
+exports.savediepoint = require('./savediepoint.js');
+exports.purchasebody = require('./purchasebody.js');
+exports.distributebodylvl = require('./distributebodylvl.js');

@@ -1,0 +1,489 @@
+{
+  "hubcustomize": [
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_ET0_AUTUMN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_ET0_NONE",
+      "flg": 6
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_ET0_SPRING",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_ET0_SUMMER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_ET0_WINTER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLG_BLACK",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLG_BLOODY",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLG_BLUE",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLG_BROKEN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLG_DIGITAL",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLG_DOT",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLG_FLOWER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLG_GREEN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLG_NONE",
+      "flg": 6
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLG_ORANGE",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLG_PURPLE",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLG_RED",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLG_STRIPE",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLG_YELLOW",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLR_AUTUMN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLR_DIY",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLR_FAN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLR_MIL",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLR_NONE",
+      "flg": 6
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLR_SPRING",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLR_SPT",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLR_SUMMER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FLR_WINTER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FNT_AUTUMN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FNT_DIY",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FNT_FAN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FNT_MIL",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FNT_NONE",
+      "flg": 6
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FNT_SPRING",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FNT_SPT",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FNT_SUMMER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_FNT_WINTER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_ILM_AUTUMN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_ILM_NONE",
+      "flg": 6
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_ILM_SPRING",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_ILM_SUMMER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_ILM_WINTER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_OBJ_AUTUMN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_OBJ_DIY",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_OBJ_FAN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_OBJ_MIL",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_OBJ_NONE",
+      "flg": 6
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_OBJ_SPRING",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_OBJ_SPT",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_OBJ_SUMMER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_OBJ_WINTER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLR_AUTUMN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLR_DIY",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLR_FAN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLR_MIL",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLR_NONE",
+      "flg": 6
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLR_SPRING",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLR_SPT",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLR_SUMMER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLR_WINTER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLT_AUTUMN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLT_DIY",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLT_FAN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLT_MIL",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLT_NONE",
+      "flg": 6
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLT_SPRING",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLT_SPT",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLT_SUMMER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PLT_WINTER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_AUTUMN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_DIY",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_FAN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_GC0",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_GC1",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_GC2",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_GC3",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_GC4",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_GC5",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_GC6",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_MIL",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_NONE",
+      "flg": 6
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_PR",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_SPRING",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_SPT",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_SUMMER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_UNCLEDEATHAWARD01",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_UNCLEDEATHAWARD02",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_PST_WINTER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_WAL_AUTUMN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_WAL_DIY",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_WAL_FAN",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_WAL_MIL",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_WAL_NONE",
+      "flg": 6
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_WAL_SPRING",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_WAL_SPT",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_WAL_SUMMER",
+      "flg": 1
+    },
+    {
+      "uid": 459881,
+      "cstmid": "HUB_CSTM_WAL_WINTER",
+      "flg": 1
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "tmplinfo": {
+    "tmpl": {
+      "id": "Tut",
+      "areaconns": [
+        {
+          "flrid": "HEAD",
+          "areaid": "",
+          "elvflrid": "",
+          "isdef": 0,
+          "idx": 49,
+          "ofsx": -65536,
+          "flagofsxs": [],
+          "uescs": [
+            {
+              "fromunit": "",
+              "toflr": "MET_FLR_01",
+              "toarea": "MET_AREA_TUTRIAL",
+              "tounit": "METRO_START_V01",
+              "ci": 0,
+              "key": "",
+              "gate": "",
+              "enable": "",
+              "idx": 278
+            }
+          ],
+          "descs": []
+        },
+        {
+          "flrid": "MET_FLR_01",
+          "areaid": "MET_AREA_TUTRIAL",
+          "elvflrid": "",
+          "isdef": 0,
+          "idx": 84,
+          "ofsx": -65536,
+          "flagofsxs": [],
+          "uescs": [
+            {
+              "fromunit": "METRO_GOAL_V01",
+              "toflr": "ARC_FLR_01",
+              "toarea": "ARC_AREA_11",
+              "tounit": "ARCADE_START_GRP",
+              "ci": 0,
+              "key": "",
+              "gate": "",
+              "enable": "",
+              "idx": 86
+            }
+          ],
+          "descs": [
+            {
+              "fromunit": "METRO_START_V01",
+              "toflr": "HEAD",
+              "toarea": "",
+              "tounit": "",
+              "ci": -1,
+              "key": "",
+              "gate": "",
+              "enable": "",
+              "idx": 278
+            }
+          ]
+        }
+      ],
+      "areaconnrss": []
+    },
+    "info": {
+      "settings": [
+        {
+          "areaid": "MET_AREA_TUTRIAL",
+          "dlm": 1,
+          "candidates": [],
+          "conds": [],
+          "replaceUnits": [],
+          "units": [
+            {
+              "unit": "METRO_A02_CV_V01",
+              "kis": "METRO_A02_CV_V01_KIS2"
+            },
+            {
+              "unit": "METRO_A12_ST_V02",
+              "kis": "METRO_A12_ST_V02_KIS2"
+            },
+            {
+              "unit": "METRO_A18_ST_V01",
+              "kis": "METRO_A18_ST_V01_KIS2"
+            },
+            {
+              "unit": "METRO_A21_ST_V02",
+              "kis": "METRO_A21_ST_V02_KIS2"
+            },
+            {
+              "unit": "METRO_A23_ST_V02",
+              "kis": "METRO_A23_ST_V02_KIS2"
+            },
+            {
+              "unit": "METRO_A26_ST",
+              "kis": "METRO_A26_ST_KIS2"
+            },
+            {
+              "unit": "METRO_START_V01",
+              "kis": "METRO_START_V01_KIS2"
+            },
+            {
+              "unit": "METRO_START_V03",
+              "kis": "METRO_START_V03_KIS2"
+            },
+            {
+              "unit": "METRO_START_V03_1_ST",
+              "kis": ""
+            }
+          ]
+        }
+      ]
+    },
+    "units": []
+  }
+}
