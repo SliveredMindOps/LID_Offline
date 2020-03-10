@@ -6,7 +6,7 @@ var app = express();
 var API = require('./API');
 
 const appDir = path.dirname(require.main.filename) + '/';
-const serverAddr = "192.168.178.90";
+const serverAddr = "localhost";
 
 app.all("*", (req, resp, next) => {
 	console.log(req.method + ' ' +  req.hostname + ' ' + req.path);
