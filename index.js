@@ -42,11 +42,11 @@ app.use('/ap.conf', (req, resp) => {
 });
 
 app.use('/api/getparams.php', (req, resp) => {
-	resp.send(fs.readFileSync(appDir + 'Data/Params/' + 'GhmApiGetparams_is_encrypted-1_2'));
+	resp.send(fs.readFileSync(appDir + 'Data/Params/' + 'apiparams.json'));
 });
 
 app.use('/api/getlocdat.php', (req, resp) => {
-	resp.send(fs.readFileSync(appDir + 'Data/Locdat/' + 'GhmApiGetlocdat_langsnd-int_langtxt-int_is_encrypted-1_2'));
+	resp.send(fs.readFileSync(appDir + 'Data/Locdat/' + 'locdat.json'));
 });
 
 //dynamically register endpoints
